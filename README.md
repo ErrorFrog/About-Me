@@ -1,4 +1,10 @@
-# 🐸 Error Frog
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/demo/?color=4DF72B&center=true&vCenter=true&lines=Hello%2C+I+am+Error+Frog!🐸"/></a>
+</p>
+
 
 **`Digital Craftsman`**
 
