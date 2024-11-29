@@ -8,10 +8,10 @@ Hello, World! I’m a beginner full-stack developer and future computer science 
 <!-- Badges -->
 
 <p align="left">
-<a href="https://github.com/ErrorFrog?tab=repositories&sort=stargazers">
-<img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ErrorFrog?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <a href="https://github.com/ErrorFrog?tab=followers">
 <img alt="followers" title="Follow me on GitHub!" src="https://custom-icon-badges.demolab.com/github/followers/ErrorFrog?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/ErrorFrog?tab=repositories&sort=stargazers">
+<img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ErrorFrog?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 <!-- Stats -->
 
