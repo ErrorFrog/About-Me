@@ -14,10 +14,9 @@ Hello, World! I’m a beginner full-stack developer and future computer science 
 <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ErrorFrog?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 <!-- Stats -->
-<p align="center">
+
 <h3>💻 GitHub Profile Stats</h3>
 
-<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ErrorFrog&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
 [![ErrorFrog's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ErrorFrog&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
