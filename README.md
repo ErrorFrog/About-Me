@@ -21,3 +21,4 @@ Hello, World! I’m a beginner full-stack developer and future Computer Science,
 
 [![ErrorFrog's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ErrorFrog&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorFrog&layout=compact)
