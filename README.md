@@ -13,6 +13,7 @@ Hello, World! I’m a beginner full-stack developer and future Computer Science,
 <a href="https://github.com/ErrorFrog?tab=repositories&sort=stargazers">
 <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ErrorFrog?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
+
 <a href="https://www.linkedin.com/in/kayque-roger-araujo-santos-8b748b268/">
 <img alt="LinkedIn" title="My LinkedIn!" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/></a>
 
